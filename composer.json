@@ -1,5 +1,5 @@
 {
-    "name": "lp/calculator",
+    "name": "mahmud/calculator",
     "description": "This is my calculator application.",
     "require": {
         "php": ">=7.4",
