@@ -1,0 +1,8 @@
+{
+    "name": "lp/calculator",
+    "description": "This is my calculator application.",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
